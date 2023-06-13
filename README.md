@@ -14,3 +14,5 @@ The versatility and potential of graph learning make it an exciting field of res
 - Matrix factorization, which seeks to find low-dimensional representations of large matrices. The goal of matrix factorization is to identify latent factors or patterns that explain the observed relationships in the original matrix. This approach can provide a compact and interpretable representation of the data.
 - Random walk, which refers to a mathematical concept used to model the movement of entities in a graph. By simulating random walks over a graph, information about the relationships between nodes can be gathered. This is why they are often used to generate training data for machine learning models.
 - Deep learning, which is a subfield of machine learning that focuses on neural networks with multiple layers. Deep learning methods can effectively encode and represent graph data as vectors. These vectors can then be used in various tasks with remarkable performance.
+
+![11](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-13%20at%207.39.25%20AM.png)

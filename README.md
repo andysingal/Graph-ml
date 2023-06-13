@@ -1,4 +1,8 @@
 # Graph-ml
+Resource:
+- Hands-On Graph Neural Networks Using Python
+
+
 Why graph learning?
 Graph learning is the application of machine learning techniques to graph data. This study area encompasses a range of tasks aimed at understanding and manipulating graph-structured data. There are many graphs learning tasks, including the following:
 

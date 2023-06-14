@@ -1,6 +1,10 @@
 # Graph-ml
-Resource:
-- Hands-On Graph Neural Networks Using Python
+| Books and Resources | Status of Completion |
+| ----- | -----|
+| 1. **Hands-On Graph Neural Networks Using Python** | |
+| 2. **Graph-Powered Machine Learning** | |
+| 3. **Graph Machine Learning** | |
+
 
 
 Why graph learning?

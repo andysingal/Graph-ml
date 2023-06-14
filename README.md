@@ -20,3 +20,47 @@ The versatility and potential of graph learning make it an exciting field of res
 - Deep learning, which is a subfield of machine learning that focuses on neural networks with multiple layers. Deep learning methods can effectively encode and represent graph data as vectors. These vectors can then be used in various tasks with remarkable performance.
 
 ![11](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-13%20at%207.39.25%20AM.png)
+
+Graph theory is a fundamental branch of mathematics that deals with the study of graphs and networks. A graph is a visual representation of complex data structures that helps us understand the relationships between different entities. Graph theory provides us with tools to model and analyze a vast array of real-world problems, such as transportation systems, social networks, and internet connectivity.
+
+It cover the following main topics:
+
+- Introducing graph properties
+- Discovering graph concepts
+- Exploring graph algorithms
+
+<h3>Weighted graphs</h3>
+Another important property of graphs is whether the edges are weighted or unweighted. In a weighted graph, each edge has a weight or cost associated with it. These weights can represent various factors, such as distance, travel time, or cost.
+
+For example, in a transportation network, the weights of edges might represent the distances between different cities or the time it takes to travel between them. In contrast, unweighted graphs have no weight associated with their edges. These types of graphs are commonly used in situations where the relationships between nodes are binary, and the edges simply indicate the presence or absence of a connection between them.
+
+<h2>Types of graphs</h2>
+
+In addition to the commonly used graph types, there are some special types of graphs that have unique properties and characteristics:
+
+- A tree is a connected, undirected graph with no cycles. Since there is only one path between any two nodes in a tree, a tree is a special case of a graph. Trees are often used to model hierarchical structures, such as family trees, organizational structures, or classification trees.
+- A rooted tree is a tree in which one node is designated as the root, and all other vertices are connected to it by a unique path. Rooted trees are often used in computer science to represent hierarchical data structures, such as filesystems or the structure of XML documents.
+- A directed acyclic graph (DAG) is a directed graph that has no cycles. This means that the edges can only be traversed in a particular direction, and there are no loops or cycles. DAGs are often used to model dependencies between tasks or events – for example, in project management or in computing the critical path of a job.
+- A bipartite graph is a graph in which the vertices can be divided into two disjoint sets, such that all edges connect vertices in different sets. Bipartite graphs are often used in mathematics and computer science to model relationships between two different types of objects, such as buyers and sellers, or employees and projects.
+- A complete graph is a graph in which every pair of vertices is connected by an edge. Complete graphs are often used in combinatorics to model problems involving all possible pairwise connections, and in computer networks to model fully connected networks.
+
+![21](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-14%20at%208.10.55%20AM.png)
+
+<h3>Discovering graph concepts</h3>
+<h4>Graph measures</h4>
+Centrality quantifies the importance of a vertex or node in a network. It helps us to identify key nodes in a graph based on their connectivity and influence on the flow of information or interactions within the network. There are several measures of centrality, each providing a different perspective on the importance of a node:
+
+Degree centrality is one of the simplest and most commonly used measures of centrality. It is simply defined as the degree of the node. A high degree centrality indicates that a vertex is highly connected to other vertices in the graph, and thus significantly influences the network.
+Closeness centrality measures how close a node is to all other nodes in the graph. It corresponds to the average length of the shortest path between the target node and all other nodes in the graph. A node with high closeness centrality can quickly reach all other vertices in the network.
+Betweenness centrality measures the number of times a node lies on the shortest path between pairs of other nodes in the graph. A node with high betweenness centrality acts as a bottleneck or bridge between different parts of the graph.
+
+<h3>Exploring graph algorithms</h3>
+Graph algorithms are critical in solving problems related to graphs, such as finding the shortest path between two nodes or detecting cycles. This section will discuss two graph traversal algorithms: BFS and DFS.
+
+<h4>Breadth-first search</h4>
+BFS is a graph traversal algorithm that starts at the root node and explores all the neighboring nodes at a particular level before moving to the next level of nodes. It works by maintaining a queue of nodes to visit and marking each visited node as it is added to the queue. The algorithm then dequeues the next node in the queue and explores all its neighbors, adding them to the queue if they haven’t been visited yet.
+
+![23](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-14%20at%208.20.40%20AM.png)
+
+![24](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-14%20at%208.22.43%20AM.png)
+

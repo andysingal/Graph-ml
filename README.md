@@ -6,8 +6,9 @@
 | 3. **Graph Machine Learning** | |
 
 Further Reading:
--- https://medium.com/nlplanet/two-minutes-nlp-using-word2vec-to-learn-node-embeddings-on-graphs-ebece432a4b6
--- https://towardsdatascience.com/deep-walk-the-overlooked-lovechild-of-nlp-and-graph-data-structures-657793831800
+- https://medium.com/nlplanet/two-minutes-nlp-using-word2vec-to-learn-node-embeddings-on-graphs-ebece432a4b6
+- https://towardsdatascience.com/deep-walk-the-overlooked-lovechild-of-nlp-and-graph-data-structures-657793831800
+- https://www.kaggle.com/code/shakshisharma/graph-embeddings-deepwalk-and-node2vec/notebook
 
 Why graph learning?
 Graph learning is the application of machine learning techniques to graph data. This study area encompasses a range of tasks aimed at understanding and manipulating graph-structured data. There are many graphs learning tasks, including the following:

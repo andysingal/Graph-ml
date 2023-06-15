@@ -68,3 +68,21 @@ BFS is a graph traversal algorithm that starts at the root node and explores all
 
 ![24](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-14%20at%208.22.43%20AM.png)
 
+DeepWalk: 
+DeepWalk is one of the first major successful applications of machine learning (ML) techniques to graph data. It introduces important concepts such as embeddings that are at the core of GNNs. Unlike traditional neural networks, the goal of this architecture is to produce representations that are then fed to other models, which perform downstream tasks (for example, node classification).
+
+In this chapter, we will learn about the DeepWalk architecture and its two major components: Word2Vec and random walks. We’ll explain how the Word2Vec architecture works, with a particular focus on the skip-gram model. We will implement this model with the popular gensim library on a natural language processing (NLP) example to understand how it is supposed to be used.
+
+Then, we will focus on the DeepWalk algorithm and see how performance can be improved using hierarchical softmax (H-Softmax). This powerful optimization of the softmax function can be found in many fields: it is incredibly useful when you have a lot of possible classes in your classification task. We will also implement random walks on a graph before wrapping things up with an end-to-end supervised classification exercise on Zachary’s Karate Club.
+
+By the end of this chapter, you will master Word2Vec in the context of NLP and beyond. You will be able to create node embeddings using the topological information of the graphs and solve classification tasks on graph data.
+
+In this chapter, we will cover the following main topics:
+
+- Introducing Word2Vec
+- DeepWalk and random walks
+-  Implementing DeepWalk
+
+![22](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-15%20at%208.29.27%20AM.png)
+
+![23](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-15%20at%208.31.52%20AM.png)

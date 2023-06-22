@@ -10,6 +10,8 @@ Further Reading:
 - https://towardsdatascience.com/deep-walk-the-overlooked-lovechild-of-nlp-and-graph-data-structures-657793831800
 - https://www.kaggle.com/code/shakshisharma/graph-embeddings-deepwalk-and-node2vec/notebook
 - https://github.com/dsgiitr/graph_nets/tree/master
+- https://towardsdatascience.com/graph-attention-networks-in-python-975736ac5c0c (https://colab.research.google.com/drive/1B0vLpH_gSfrOLgsc2UZVyXrcofzA-t0L?usp=sharing#scrollTo=ZWEOE5t8Sar3)
+- 
 
 Why graph learning?
 Graph learning is the application of machine learning techniques to graph data. This study area encompasses a range of tasks aimed at understanding and manipulating graph-structured data. There are many graphs learning tasks, including the following:

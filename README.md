@@ -94,3 +94,6 @@ In this chapter, we will cover the following main topics:
 ![23](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-15%20at%208.31.52%20AM.png)
 
 ![24](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-15%20at%208.36.43%20AM.png)
+
+
+![25](https://github.com/andysingal/Graph-ml/blob/main/resources/Screenshot%202023-06-28%20at%2010.08.22%20AM.png)
